@@ -1,0 +1,6 @@
+package br.ufra.edu.todes;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProdutoRepository extends JpaRepository<ApiProduto, Long> {
+}
