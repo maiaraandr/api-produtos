@@ -60,6 +60,7 @@ Tecnologias utilizadas
 6.	    Banco de Dados Relacional (como H2, PostgreSQL, MySQL)
 7.	    Maven (gerenciador de dependências)
 
+📽️ [Clique aqui para assistir ao vídeo](video.mp4)
 
 
 
